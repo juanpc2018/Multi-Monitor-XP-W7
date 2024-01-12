@@ -8,7 +8,7 @@ NVIDIA GT 740 works FullHD in XP, 4K in W7x32  </br>
 board Asus P5W DH, chipset: 975x, socket lga775, CPU Q6600 </br>
 
 software available for Win & Mac in that era 2000 - 2010, </br>
-was done with OpenGL Video drivers, for easy code porting / compatibility. </br>
+was usually  done with OpenGL Video drivers, for easy code porting / compatibility. </br>
 but...</br>
 XP was designed for DirectX 9.0c, Not OpenGL </br>
 XP does Not work in Multi-Monitor using OpenGL </br>
