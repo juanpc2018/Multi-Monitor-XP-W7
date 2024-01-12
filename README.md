@@ -11,7 +11,7 @@ software available for Win & Mac in that era 2000 - 2010, </br>
 was done with OpenGL Video drivers, for easy code porting / compatibility. </br>
 but...</br>
 XP was designed for DirectX 9.0c, Not OpenGL </br>
-XP does Not work well in Multi-Monitor using OpenGL </br>
+XP does Not work in Multi-Monitor using OpenGL </br>
 DirectX drivers work Ok in XP, OpenGL only works 1x GPU, or AMD or NVIDIA </br>
 depends whats the Default Monitor selected. </br>
 
