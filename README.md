@@ -13,7 +13,7 @@ but...</br>
 XP was designed for DirectX 9.0c, Not OpenGL </br>
 XP does Not work in Multi-Monitor using OpenGL </br>
 DirectX drivers work Ok in XP, OpenGL only works 1x GPU, or AMD or NVIDIA </br>
-depends whats the Default Monitor selected. </br>
+depends what is the Default Monitor selected in XP. </br>
 
 GT 740 is a bit better in 3D vs. HD6570 </br>
 testing with [Unigine Tropics v1.0 2008 v1.3 2010](https://benchmark.unigine.com/tropics) </br>
