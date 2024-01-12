@@ -25,6 +25,7 @@ when Not, 3D gets frozen in the monitors connected to the secondary GPU. </br>
 
 if want multi-monitor, and software only has OpenGL drivers, </br>
 the only option is Windows 7x32 </br>
+havent tested Vista x32 </br>
 
 dxcpl DirectX configuration wont do much, and similar for OpenGL only tests 1 card in XP. </br>
 board 975x, Q6600 CPU </br>
