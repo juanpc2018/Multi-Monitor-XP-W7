@@ -3,7 +3,7 @@
 using 3 monitors: </br>
 2x FullHD + 1x 4K TV at [QXGA 2048x1536](https://en.wikipedia.org/wiki/Graphics_display_resolution#QXGA) </br>
 dual GPU. </br>
-AMD Radeon HD6570 works ok 4K in XP, FullHD on W7x32, driver 13.12 or 14.4 the latest, </br>
+AMD Radeon HD6570 works ok 4K in XP, FullHD on W7x32, driver 13.12 | 14.1 or 14.4 the latest, </br>
 NVIDIA GT 740 works FullHD in XP, 4K in W7x32  </br>
 board Asus P5W DH, chipset: 975x, socket lga775, CPU Q6600 </br>
 
