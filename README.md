@@ -27,5 +27,6 @@ the only option is Windows 7x32 with those video cards </br>
 
 dxcpl DirectX configuration wont do much, and similar for OpenGL only tests 1 card in XP. </br>
 board 975x, Q6600 CPU </br>
-X58 boards had a strange change in [ACPI](https://en.wikipedia.org/wiki/ACPI), many issues with [APIC](https://en.wikipedia.org/wiki/Advanced_Programmable_Interrupt_Controller#Issues), [MPS Tables](https://en.wikipedia.org/wiki/MultiProcessor_Specification) </br>
 information here may Not work in other systems. </br>
+X58 boards had a strange change in [ACPI](https://en.wikipedia.org/wiki/ACPI), many issues with [APIC](https://en.wikipedia.org/wiki/Advanced_Programmable_Interrupt_Controller#Issues), [MPS Tables](https://en.wikipedia.org/wiki/MultiProcessor_Specification) </br>
+
