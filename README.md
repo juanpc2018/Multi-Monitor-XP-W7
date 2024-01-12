@@ -21,7 +21,7 @@ Not Full Screen, windowed 1340x768,
 Tropics allows to select video driver: OpenGL vs. DirectX9 </br>
 and move the 3D window to all monitors </br>
 when drivers are ok, all windows have fluid graphics. </br>
-when Not, 3D gets frozen. </br>
+when Not, 3D gets frozen in XP, with secondary GPU. </br>
 
 if want multi-monitor, and software only has OpenGL drivers, </br>
 the only option is Windows 7x32 </br>
