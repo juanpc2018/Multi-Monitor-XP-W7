@@ -5,6 +5,7 @@ using 3 monitors: </br>
 dual GPU. </br>
 AMD Radeon HD6570 works ok 4K in XP, FullHD on W7x32, driver 13.12 or 14.4 the latest, </br>
 NVIDIA GT 740 works FullHD in XP, 4K in W7x32  </br>
+board Asus P5W DH, chipset: 975x, socket lga775, CPU Q6600 </br>
 
 software available for Win & Mac in that era 2000 - 2010, </br>
 was done with OpenGL Video drivers, for easy code porting / compatibility. </br>
@@ -28,5 +29,5 @@ the only option is Windows 7x32 with those video cards </br>
 dxcpl DirectX configuration wont do much, and similar for OpenGL only tests 1 card in XP. </br>
 board 975x, Q6600 CPU </br>
 information here may Not work in other systems. </br>
-X58 boards had a strange change in [ACPI](https://en.wikipedia.org/wiki/ACPI), many issues with [APIC](https://en.wikipedia.org/wiki/Advanced_Programmable_Interrupt_Controller#Issues), [MPS Tables](https://en.wikipedia.org/wiki/MultiProcessor_Specification) </br>
+X58 boards, and different brands had strange changes in [ACPI](https://en.wikipedia.org/wiki/ACPI), many issues with [APIC](https://en.wikipedia.org/wiki/Advanced_Programmable_Interrupt_Controller#Issues), [MPS Tables](https://en.wikipedia.org/wiki/MultiProcessor_Specification) </br>
 
