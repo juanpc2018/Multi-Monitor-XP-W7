@@ -24,7 +24,7 @@ when drivers are ok, all windows have fluid graphics. </br>
 when Not, 3D gets frozen. </br>
 
 if want multi-monitor, and software only has OpenGL drivers, </br>
-the only option is Windows 7x32 with those video cards </br>
+the only option is Windows 7x32 </br>
 
 dxcpl DirectX configuration wont do much, and similar for OpenGL only tests 1 card in XP. </br>
 board 975x, Q6600 CPU </br>
